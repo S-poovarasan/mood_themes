@@ -1,0 +1,26 @@
+body{
+  text-align: center;
+}
+button{
+  margin: 5px;
+}
+button:hover{
+  cursor: pointer;
+  background-color: gray;
+}
+.happy{
+  background-color: yellow;
+}
+.sad{
+  background-color: rgb(189, 166, 200);
+}
+.good{
+  background-color: bisque;
+}
+.anger{
+  background-color: red;
+}
+.container{
+  height: 100vh;
+  width: 100vw;
+}
